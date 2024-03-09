@@ -1,2 +1,2 @@
 # Clothsy
-An Arduino based device which protects your clothes from rain.
+An Arduino UNO based device which protects your clothes from rain.
