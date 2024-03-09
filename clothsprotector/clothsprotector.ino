@@ -36,7 +36,7 @@ void forward()
   digitalWrite(IN2, LOW);
   analogWrite(ENA, 80);
 }
-
+//stops the motor
 void stop()
 {
   digitalWrite(IN1, LOW);
